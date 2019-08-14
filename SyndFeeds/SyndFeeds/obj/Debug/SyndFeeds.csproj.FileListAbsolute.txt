@@ -1,0 +1,7 @@
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\bin\Debug\SyndFeeds.dll.config
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\bin\Debug\SyndFeeds.dll
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\bin\Debug\SyndFeeds.pdb
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\obj\Debug\SyndFeeds.csprojAssemblyReference.cache
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\obj\Debug\SyndFeeds.csproj.CoreCompileInputs.cache
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\obj\Debug\SyndFeeds.dll
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\SyndFeeds\obj\Debug\SyndFeeds.pdb

@@ -1,0 +1,10 @@
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\bin\Debug\ConsoleAppFeed.exe
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\bin\Debug\ConsoleAppFeed.pdb
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\bin\Debug\SyndFeeds.dll
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\bin\Debug\SyndFeeds.pdb
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\bin\Debug\SyndFeeds.dll.config
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\obj\Debug\ConsoleAppFeed.csprojAssemblyReference.cache
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\obj\Debug\ConsoleAppFeed.csproj.CoreCompileInputs.cache
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\obj\Debug\ConsoleAppFeed.csproj.CopyComplete
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\obj\Debug\ConsoleAppFeed.exe
+C:\Users\gomesl\Documents\Visual Studio 2017\Projects\SyndFeeds\ConsoleAppFeed\obj\Debug\ConsoleAppFeed.pdb
